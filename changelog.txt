@@ -1,0 +1,8 @@
+Add Purchase Edit Page and show All data inside the field.
+Add new function in FetchController as getPendingSinglePurchase()
+Purchase Edit done
+Customer Module
+ADD user Module
+Add Sales Module
+Add Dashboard GRID
+Implement Dashboard All data
